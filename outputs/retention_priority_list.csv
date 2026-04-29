@@ -1,0 +1,121 @@
+host_id,host_name,priority,segment,recency,frequency,monetary,is_superhost,tenure_years,listings_count,avg_price,primary_neighbourhood
+12554440,Jason,P1 - Highest,Cannot Lose Them,86,152,191250.0,True,12.1,1,750.0,78741
+55000456,David,P1 - Highest,Cannot Lose Them,127,123,96720.0,True,10.2,1,1240.0,78744
+78156116,ATX Rentals,P1 - Highest,Cannot Lose Them,96,286,74052.0,True,9.8,5,115.2,78722
+563117695,Lesli,P1 - Highest,Cannot Lose Them,65,55,73224.0,True,2.1,1,339.0,78734
+67375456,Alexandra Kaleialoha,P1 - Highest,Cannot Lose Them,81,347,61392.0,True,10.0,4,351.25,78701
+71371948,Nhung,P1 - Highest,Cannot Lose Them,71,109,58635.0,True,9.9,2,147.0,78759
+18548240,James,P1 - Highest,Cannot Lose Them,184,274,56700.0,False,11.7,1,675.0,78702
+509910752,Shannon,P1 - Highest,Cannot Lose Them,94,93,56226.0,False,3.0,7,171.0,78741
+277983957,Vacay,P1 - Highest,Cannot Lose Them,60,72,55206.0,True,6.7,8,159.5,78724
+10522395,Shannon,P1 - Highest,Cannot Lose Them,86,121,53922.0,False,12.3,1,817.0,78702
+19380268,Ryan,P1 - Highest,Cannot Lose Them,128,578,52602.0,True,11.7,4,148.5,78702
+4655671,Nicole,P1 - Highest,Cannot Lose Them,72,82,50760.0,True,13.3,3,366.67,78704
+23631228,Megan,P1 - Highest,Cannot Lose Them,81,391,47808.0,True,11.4,2,284.5,78702
+98954960,June,P1 - Highest,Cannot Lose Them,72,77,47634.0,True,9.5,1,467.0,78704
+50901,Wesley,P1 - Highest,Cannot Lose Them,79,167,47016.0,True,16.4,1,653.0,78702
+2862517,Robert,P1 - Highest,Cannot Lose Them,86,475,44496.0,True,13.8,3,180.67,78751
+429262139,Philip,P1 - Highest,Cannot Lose Them,65,70,42000.0,True,4.5,1,280.0,78741
+423318207,Natalina,P1 - Highest,Cannot Lose Them,59,125,41748.0,True,4.6,2,226.0,78745
+10500741,Stephane,P1 - Highest,Cannot Lose Them,125,94,39138.0,True,12.3,1,593.0,78703
+36375176,Isabelle And Ralph,P1 - Highest,Cannot Lose Them,85,98,35910.0,False,10.8,1,285.0,78702
+349890362,John,P1 - Highest,Cannot Lose Them,99,655,34464.0,True,5.8,2,152.0,78736
+4094761,Laura,P1 - Highest,Cannot Lose Them,143,613,34160.0,False,13.4,2,152.5,78704
+32777712,Lucy,P1 - Highest,Cannot Lose Them,64,171,34076.0,True,10.9,2,85.0,78703
+105472658,Trent,P1 - Highest,Cannot Lose Them,94,96,33600.0,True,9.4,1,175.0,78734
+1157982,Lionel William III,P1 - Highest,Cannot Lose Them,113,206,33192.0,True,14.6,3,452.67,78702
+30421515,Mirt,P1 - Highest,Cannot Lose Them,78,119,31875.0,True,11.0,1,125.0,78745
+22715338,Kimberly,P1 - Highest,Cannot Lose Them,70,88,31668.0,True,11.5,1,182.0,78702
+8835522,Dana,P1 - Highest,Cannot Lose Them,128,154,30780.0,True,12.6,1,285.0,78702
+32713240,Bryan,P1 - Highest,Cannot Lose Them,71,82,29700.0,False,10.9,1,550.0,78749
+175281259,Virginia,P1 - Highest,Cannot Lose Them,72,85,27744.0,True,8.1,1,289.0,78702
+36487725,Christi,P1 - Highest,Cannot Lose Them,142,161,26520.0,False,10.8,1,104.0,78721
+1029071,Laura Suzzanne,P1 - Highest,Cannot Lose Them,71,208,25500.0,True,14.6,1,170.0,78702
+163491992,Christine,P1 - Highest,Cannot Lose Them,76,75,25380.0,True,8.3,1,470.0,78749
+185764568,Nelson,P1 - Highest,Cannot Lose Them,72,118,25200.0,True,8.0,1,150.0,78736
+44042857,Hope,P1 - Highest,Cannot Lose Them,183,351,24426.0,True,10.6,3,458.67,78704
+475506,Daniel John,P1 - Highest,Cannot Lose Them,78,215,24300.0,True,15.0,1,135.0,78705
+43354882,Chandler,P1 - Highest,Cannot Lose Them,163,145,23976.0,False,10.6,1,999.0,78702
+253725837,Kurt & Kate,P1 - Highest,Cannot Lose Them,85,94,23936.0,True,7.0,1,176.0,78702
+39244171,Isabel,P1 - Highest,Cannot Lose Them,79,285,23472.0,True,10.7,3,144.0,78704
+74680171,Jonathan,P1 - Highest,Cannot Lose Them,72,96,22950.0,True,9.9,1,153.0,78741
+262127534,Eunice,P1 - Highest,Cannot Lose Them,93,88,22800.0,False,6.9,3,288.33,78721
+61291922,Lucy,P1 - Highest,Cannot Lose Them,120,291,22608.0,True,10.1,1,157.0,78704
+18775364,Just,P1 - Highest,Cannot Lose Them,65,497,21420.0,True,11.7,1,119.0,78757
+83274785,Greg,P1 - Highest,Cannot Lose Them,141,311,21060.0,True,9.8,1,195.0,78703
+60386417,Miriam,P1 - Highest,Cannot Lose Them,113,206,21000.0,True,10.1,1,125.0,78757
+48191428,Leah,P1 - Highest,Cannot Lose Them,60,97,20400.0,True,10.4,1,80.0,78745
+3715137,Melissa,P1 - Highest,Cannot Lose Them,120,515,20280.0,True,13.5,1,130.0,78702
+3608356,Larry,P1 - Highest,Cannot Lose Them,71,297,20250.0,True,13.6,1,225.0,78704
+5812130,Teri,P1 - Highest,Cannot Lose Them,86,110,20064.0,True,13.0,1,176.0,78704
+24301148,Sami,P1 - Highest,Cannot Lose Them,72,158,19482.0,False,11.4,1,191.0,78702
+1666874,Brian,P1 - Highest,Cannot Lose Them,121,113,18606.0,True,14.2,2,321.0,78704
+14747714,Carrye,P1 - Highest,Cannot Lose Them,142,118,18456.0,True,12.0,2,547.0,78704
+42825608,Peter,P1 - Highest,Cannot Lose Them,68,304,18360.0,True,10.6,1,72.0,78730
+282630792,Long,P1 - Highest,Cannot Lose Them,65,156,18270.0,True,6.7,1,145.0,78728
+105948719,Nathan,P1 - Highest,Cannot Lose Them,136,184,18120.0,True,9.4,1,151.0,78757
+80309698,Mark,P1 - Highest,Cannot Lose Them,105,95,17820.0,False,9.8,1,198.0,78704
+73030738,Eileen,P1 - Highest,Cannot Lose Them,115,261,17712.0,False,9.9,2,88.5,78701
+129331351,Thomas,P2 - High,At Risk,92,191,16720.0,False,8.9,4,307.5,78744
+21615823,Joseph,P2 - High,At Risk,113,402,16650.0,True,11.6,1,111.0,78702
+42610539,Gloria,P2 - High,At Risk,127,146,16254.0,False,10.6,3,130.0,78751
+23810477,Mark,P2 - High,At Risk,72,99,16224.0,False,11.4,1,169.0,78745
+35913758,Renee,P2 - High,At Risk,64,176,16008.0,True,10.8,2,132.5,78744
+49272247,Emily,P2 - High,At Risk,91,96,15810.0,True,10.4,1,155.0,78745
+3539325,Garret,P2 - High,At Risk,118,123,15512.0,True,13.6,2,54.5,78704
+2885190,John,P2 - High,At Risk,87,194,15390.0,True,13.8,1,285.0,78704
+339284173,Ryan,P2 - High,At Risk,128,172,15336.0,False,6.1,1,142.0,78702
+190182641,Candice,P2 - High,At Risk,65,327,15066.0,True,7.9,1,93.0,78751
+70370595,Danielle,P2 - High,At Risk,104,181,15036.0,True,9.9,1,179.0,78727
+185965513,Ricardo,P2 - High,At Risk,64,130,14760.0,True,8.0,1,164.0,78745
+22946992,Brock And Brittanie,P2 - High,At Risk,79,107,14586.0,True,11.5,1,143.0,78702
+62926106,Guy,P2 - High,At Risk,72,272,14472.0,False,10.1,16,268.0,78734
+4987472,Michael,P2 - High,At Risk,72,106,14400.0,False,13.2,1,1200.0,78732
+99833740,Julie,P2 - High,At Risk,114,367,14400.0,True,9.5,1,120.0,78704
+5517079,Negar,P2 - High,At Risk,156,241,14304.0,True,13.1,1,149.0,78704
+35479637,Michael,P2 - High,At Risk,86,94,14304.0,True,10.8,1,149.0,78704
+16109724,Adrianne,P2 - High,At Risk,128,214,14256.0,True,11.9,1,396.0,78702
+142814602,Abid,P2 - High,At Risk,78,129,13794.0,True,8.7,1,121.0,78722
+238970527,Savannah,P2 - High,At Risk,66,99,13662.0,True,7.2,1,99.0,78745
+37285437,Jazmine,P2 - High,At Risk,85,98,13158.0,True,10.8,1,129.0,78702
+385268562,Chris,P2 - High,At Risk,72,91,12960.0,True,5.2,1,144.0,78741
+200912888,Kyle,P2 - High,At Risk,78,455,12600.0,False,7.8,1,75.0,78702
+58780573,Jacqueline Lee,P2 - High,At Risk,81,133,12546.0,True,10.2,1,123.0,78746
+75236017,Veronique,P2 - High,At Risk,73,106,12522.0,True,9.9,3,95.33,78757
+9599503,William,P2 - High,At Risk,107,246,12150.0,True,12.5,1,135.0,78704
+444930649,Richard,P2 - High,At Risk,79,90,12150.0,False,4.2,1,135.0,78721
+574218,Matthew,P2 - High,At Risk,85,156,12096.0,True,14.9,1,168.0,78731
+39186791,Kim,P2 - High,At Risk,116,130,12096.0,True,10.7,2,42.0,78745
+5467021,Gina,P2 - High,At Risk,86,310,11976.0,True,13.1,3,206.67,78701
+270088447,Esther Irene,P2 - High,At Risk,71,326,11448.0,True,6.8,1,53.0,78758
+4418135,Emiliano,P2 - High,At Risk,65,168,11340.0,True,13.3,1,90.0,78702
+22727366,Lisa,P2 - High,At Risk,112,121,11214.0,True,11.5,1,89.0,78745
+9028408,Tony,P2 - High,At Risk,113,197,11100.0,True,12.6,2,372.5,78704
+21506186,Geri,P2 - High,At Risk,127,202,11040.0,True,11.6,1,115.0,78722
+2131360,Katie,P2 - High,At Risk,64,354,10944.0,True,14.0,1,76.0,78757
+3493749,Vanika,P2 - High,At Risk,142,144,10920.0,True,13.6,1,182.0,78702
+2546775,Rice,P2 - High,At Risk,113,212,10890.0,True,13.9,1,121.0,78705
+4856304,Sue,P2 - High,At Risk,79,121,10836.0,True,13.2,1,129.0,78703
+2267961,Jesse,P2 - High,At Risk,86,287,10758.0,False,13.9,2,121.0,78702
+453815917,Royce And Sophia,P2 - High,At Risk,73,110,10692.0,False,4.0,1,99.0,78734
+387918,Amy & Justin,P2 - High,At Risk,139,282,10668.0,True,15.2,2,135.0,78704
+132201157,Travis,P2 - High,At Risk,114,125,10626.0,True,8.9,1,77.0,78757
+9510498,Jessica,P2 - High,At Risk,85,129,10530.0,True,12.5,1,135.0,78702
+106175382,Andrea Danielle Baggett,P2 - High,At Risk,72,270,10416.0,True,9.4,1,56.0,78704
+372747,Ryan Townsend,P2 - High,At Risk,72,125,10374.0,True,15.2,1,91.0,78745
+746455,Michael,P2 - High,At Risk,142,135,10350.0,True,14.8,2,280.5,78703
+15449691,Christina,P2 - High,At Risk,184,305,10080.0,True,11.9,1,140.0,78731
+111063591,Kristi,P2 - High,At Risk,86,146,10032.0,True,9.2,1,88.0,78722
+195270844,Vince,P2 - High,At Risk,72,114,9984.0,False,7.8,2,104.0,78750
+252610452,Adam,P2 - High,At Risk,72,88,9696.0,False,7.0,1,202.0,78747
+543367,Mary,P2 - High,At Risk,87,140,9300.0,False,15.0,1,150.0,78704
+380621120,Harrington Katherine,P2 - High,At Risk,141,177,9180.0,True,5.3,1,90.0,78702
+119513428,Michael,P2 - High,At Risk,65,161,9024.0,True,9.1,1,188.0,78705
+7440744,Jenny,P2 - High,At Risk,99,300,9000.0,True,12.8,1,150.0,78703
+83433639,Gerardo,P2 - High,At Risk,121,123,8820.0,True,9.7,1,105.0,78704
+1036139,Brenda,P2 - High,At Risk,99,131,8568.0,True,14.6,1,119.0,78704
+45732407,Wayne,P2 - High,At Risk,64,178,8364.0,True,10.5,1,82.0,78751
+54559247,Justin,P2 - High,At Risk,128,607,8316.0,True,10.2,1,42.0,78704
+33610882,Irma,P2 - High,At Risk,134,173,8268.0,False,10.9,1,106.0,78702
+4459107,Katie,P2 - High,At Risk,67,354,8208.0,True,13.3,1,76.0,78737
+69102240,Roger,P2 - High,At Risk,68,102,8160.0,True,10.0,2,46.5,78704
